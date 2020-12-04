@@ -1,2 +1,2 @@
-# Class-28
-The bird will destroy you all
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
